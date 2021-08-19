@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm QiaoYi, Lin</h1>
 <h3 align="center">A High School Student from Taiwan.</h3>
 
-- 🌱 I’m currently learning **Quantum Computing and software development**
+- 🌱 I’m currently learning **quantum computing and programing**
 
 - 📫 How to reach me **linqiaoyi213@gmail.com**
 
