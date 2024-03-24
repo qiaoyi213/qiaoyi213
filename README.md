@@ -1,11 +1,7 @@
 ### <div align="center">QiaoYi, Lin</div>  
 
-- 🔭 I’m currently working on [Assembly Language Final Project](https://github.com/qiaoyi213/ASM_FinalPrj)  
-  
-
-- 🌱 I’m currently learning Quantum Computing and Programming  
-  
-
+- 🌱 I’m currently learning Quantum Computing and Programming
+- 
 <br/>  
 
 
@@ -24,10 +20,3 @@
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=qiaoyi213&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-![Profile views counter](https://komarev.com/ghpvc/?username=qiaoyi213&&style=flat-square)  
